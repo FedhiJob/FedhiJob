@@ -5,7 +5,7 @@
 
 Next.js, React, TypeScript, Tailwind CSS
 
-A passionate 4th-year Software Engineering student at Jimma University with focus on frontend development. I specialize in building clean, responsive, and high-performance web applications using Next.js, React, TypeScript, and TailwindCSS. I believe technology should serve people with purpose, creativity, and impact. Working on meaningful projects like FeyerTrading has strengthened my commitment to using code to solve real problems and create opportunities.
+A 4th year passionate Software Engineering student at Jimma University with focus on frontend development. I specialize in building clean, responsive, and high-performance web applications using Next.js, React, TypeScript, and TailwindCSS. I believe technology should serve people with purpose, creativity, and impact. Working on meaningful projects like FeyerTrading has strengthened my commitment to using code to solve real problems and create opportunities.
 
 ---
 
@@ -86,24 +86,34 @@ Brief description of your third major project
 
 ---
 
-### 📊 Weekly Development Breakdown
+
+## 📊 Weekly Development Breakdown
 
 ```text
-Next.js      🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦   75%
-TypeScript   🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦           50%
-React        🟦🟦🟦🟦🟦🟦🟦🟦               40%
-Tailwind     🟦🟦🟦🟦🟦🟦🟦                 35%
-Node.js      🟦🟦🟦🟦🟦                     25%
-Let's Connect
-I'm always open to discussing technology, collaboration opportunities, or just having a friendly chat about web development!
-
-## 🌐 Let's Connect
-
-🌐 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fedasa-eyob-6181a6377)  
-🐦 [![X (Twitter)](https://img.shields.io/badge/X-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/FedasaEyob)  ✉️ [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:fedasaeyob@gmail.com)  💻 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/FedhiJob)  
+Next.js     ████████████████ 75%
+TypeScript  ██████████       50%
+React       ████████         40%
+Tailwind    ███████          35%
+Node.js     █████            25%
+```
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=FedhiJob&color=blueviolet&style=flat-square)
+## 🤝 Let's Connect
+
+I'm always open to discussing technology, collaboration opportunities, or just having a friendly chat about web development!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fedasa-eyob-6181a6377)
+[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/FedasaEyob)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FedhiJob)
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=FedhiJob&color=blueviolet&style=for-the-badge)
 
 **Thanks for visiting my profile!** 😊
+
+</div>
