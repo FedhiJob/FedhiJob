@@ -79,34 +79,32 @@ A passionate 4th-year Software Engineering student at Jimma University with expe
 
 ---
 
+
 ## 📈 Weekly Development Breakdown
 
-```text
-Next.js      ████████████████████  80%
-Tailwind CSS █████████████████░░░  75%
-TypeScript   █████████████░░░░░░░  60%
-JavaScript   ████████████░░░░░░░░  55%
-React        ██████████░░░░░░░░░░  45%
-Node.js      ████████░░░░░░░░░░░░  40%
-MongoDB      ███████░░░░░░░░░░░░░  35%
+| Technology        | Progress                |
+|-------------------|-------------------------|
+| Next.js           | ████████████████████ 80% |
+| Tailwind CSS      | █████████████████░░░ 75% |
+| TypeScript        | █████████████░░░░░░░ 60% |
+| JavaScript        | ████████████░░░░░░░░░ 55% |
+| React             | ██████████░░░░░░░░░░ 45% |
+| Node.js           | ████████░░░░░░░░░░░░ 40% |
+| MongoDB           | ███████░░░░░░░░░░░░░ 35% |
 
 ## 🌱 Currently Learning
 
 - 🎯 **Advanced Next.js** patterns and performance optimization
-- 🏗️ **System design** and software architecture principles  
+- 🏗️ **System design** and software architecture principles
 - 🔗 **Backend development** with Node.js and databases
 - 🎨 **UI/UX design** principles and best practices
 - ⚡ **DevOps** and deployment strategies
 
----
-
 ## 🏆 Achievements & Certifications
 
 - **Top 10 Finalist** - Jimma University Hackathon 2025 (VentureMeda 360)
-- Competed against 90+ teams with AI solutions for e-commerce and logistics
+  - Competed against 90+ teams with AI solutions for e-commerce and logistics
 - **Software Engineering** - Jimma University (2023-2027)
-
----
 
 ## 📫 Let's Connect
 
@@ -115,32 +113,25 @@ I'm always open to discussing technology, collaboration opportunities, internshi
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://fedasa-portfolio-nextjs.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fedasa-eyob-6181a6377)
 [![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/FedasaEyob)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fedasacyob@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fedasaeyob@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FedhiJob)
-
----
 
 ## 🌍 Languages
 
 - **Amharic** (Native)
-- **Oromo** (Native) 
+- **Oromo** (Native)
 - **English** (Professional)
 - **Arabic** (Professional)
-
----
 
 ## 📊 GitHub Activity
 
 ![Fedasa's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FedhiJob&theme=react-dark&hide_border=true&area=true)
 
----
-
 <div align="center">
-
 ![Profile Views](https://komarev.com/ghpvc/?username=FedhiJob&color=blueviolet&style=for-the-badge)
 
 **Thanks for visiting my profile! Have a great day!** 😊
 
 *"Building solutions that matter for my community"*
-
+</div>
 </div>
