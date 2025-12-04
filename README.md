@@ -21,6 +21,7 @@ A passionate 4th-year Software Engineering student at Jimma University with expe
 
 </div>
 
+
 ---
 
 ## 🚀 Featured Projects
