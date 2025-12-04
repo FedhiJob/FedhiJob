@@ -11,11 +11,11 @@ A passionate 4th-year Software Engineering student at Jimma University with expe
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  
-![Fedasa's GitHub stats](https://github-readme-stats.vercel.app/api?username=FedhiJob&show_icons=true&theme=radical&hide_title=true&hide=prs,issues)
+<div align="center" style="border: 2px solid #4CAF50; border-radius: 10px; padding: 20px; background-color: #f9f9f9; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FedhiJob&theme=radical)
+![Fedasa's GitHub stats](https://github-readme-stats.vercel.app/api?username=FedhiJob&show_icons=true&theme=radical&hide_title=true&hide=prs,issues&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FedhiJob&theme=radical&date_format=j%20M%20Y)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FedhiJob&layout=compact&theme=radical&langs_count=6)
 
