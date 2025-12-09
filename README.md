@@ -92,7 +92,7 @@
 | Achievement | Details | Date |
 |------------|---------|------|
 | **🏅 Top 10 Finalist** - Jimma University Hackathon 2025 | Developed **ChainTrust**, an AI-powered solution for e-commerce logistics competing against 90+ teams | 2025 |
-| **🎯 Software Engineering ** | Maintaining top academic performance while building real-world projects | 2023-Ongoing |
+| **🎯 Software Engineering** | Maintaining top academic performance while building real-world projects | 2023-Ongoing |
 | **🌐 Community Contributor** | Active participant in Ethiopia's tech community, sharing knowledge and open-source work | Ongoing |
 
 ---
