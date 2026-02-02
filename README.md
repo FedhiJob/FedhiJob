@@ -2,7 +2,6 @@
 # 👨‍💻 Fedasa Eyob
 
 **Software Engineering Student & Full-Stack Developer**  
-*Building digital solutions for Ethiopia's growth*
 
 📍 Jimma University · 🎓 4th Year · 🌍 Ethiopia  
 📧 fedasaeyob@gmail.com · 🔗 [Portfolio](https://fedasa-portfolio-nextjs.vercel.app)
