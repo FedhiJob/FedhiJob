@@ -94,26 +94,6 @@
 | **🎯 Software Engineering** | Maintaining top academic performance while building real-world projects | 2023-Ongoing |
 | **🌐 Community Contributor** | Active participant in Ethiopia's tech community, sharing knowledge and open-source work | Ongoing |
 
----
-
-## 📈 Skill Progression
-
-<div align="center">
-
-| Technology | Proficiency | Focus Areas |
-|------------|-------------|-------------|
-| **Next.js** | ████████████████████ 90% | App Router, Server Actions, Optimization |
-| **TypeScript** | █████████████████░░░ 85% | Type Safety, Advanced Patterns, Generics |
-| **React** | ████████████████░░░░ 80% | Hooks, State Management, Performance |
-| **Tailwind CSS** | ████████████████████ 95% | Responsive Design, Custom Components |
-| **Node.js/Express** | █████████████░░░░░░░ 70% | REST APIs, Authentication, Middleware |
-| **MongoDB** | ████████████░░░░░░░░ 65% | Data Modeling, Aggregation, Indexing |
-
-*Note: Proficiency based on project experience and continuous learning*
-</div>
-
----
-
 ## 🌱 Currently Exploring
 
 - **🔄 Advanced State Management** - Zustand, Redux Toolkit patterns
