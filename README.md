@@ -6,11 +6,6 @@
 📍 Jimma University · 🎓 4th Year · 🌍 Ethiopia  
 📧 fedasaeyob@gmail.com · 🔗 [Portfolio](https://fedasa-portfolio-nextjs.vercel.app)
 
-> **"Technology should serve people with purpose, creativity, and impact."**  
-> Passionate about leveraging modern web technologies to solve real problems and create opportunities in Ethiopia's digital ecosystem.
-
----
-
 ## 🚀 Featured Projects
 
 ### 🛒 **FeyerTrading** | *Next-generation Ethiopian Marketplace*
@@ -28,7 +23,7 @@
 > AI-powered chatbot providing personalized learning support for software engineering students.
 
 - **Tech:** Next.js · TypeScript · Tailwind CSS · OpenAI API · Vercel AI SDK
-- **Live Demo:** [mentor-soft-ai.vercel.app](https://mentor-soft-ai.vercel.app)
+- **Live Demo:** [mentor-soft-ai.vercel.app](https://mentor-soft.vercel.app)
 - **Repository:** [github.com/FedhiJob/mentor-soft-ai](https://github.com/FedhiJob/mentor-soft-ai)
 - **Highlights:** Real-time AI conversations · Context-aware responses · Clean, intuitive UI · Deployed on Vercel
 
@@ -99,7 +94,6 @@
 - **🔄 Advanced State Management** - Zustand, Redux Toolkit patterns
 - **⚡ Performance Optimization** - Lighthouse scores, Core Web Vitals
 - **🔐 Backend Security** - JWT best practices, rate limiting, input validation
-- **📱 Mobile Development** - React Native for cross-platform apps
 - **🧪 Testing** - Jest, React Testing Library, Cypress
 - **☁️ Cloud & DevOps** - AWS basics, CI/CD pipelines, containerization
 
@@ -107,7 +101,7 @@
 
 ## 📫 Let's Collaborate!
 
-I'm actively seeking **internship opportunities, collaborative projects, and mentorship roles** for 2024/2025. Let's build something meaningful together!
+I'm actively seeking **internship opportunities, collaborative projects, and mentorship roles** for 2026. Let's build something meaningful together!
 
 <div align="center">
   
