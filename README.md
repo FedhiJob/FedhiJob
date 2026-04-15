@@ -55,8 +55,8 @@ Git · GitHub · Vercel · Clerk · OAuth
 
 ### 📊 GitHub Stats
 
-![Fedasa's GitHub stats](https://github-readme-stats.vercel.app/api?username=fedhijob&show_icons=true&theme=default)
-
+### 🔥 Contribution Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FedhiJob&theme=radical&date_format=j%20M%20Y&fire=FF6B6B)
 ---
 
 ### 🌐 Languages
