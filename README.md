@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 
-I'm a software engineering student at Jimma University (2023–2027) with hands-on experience building deployed digital platforms, AI-assisted systems, and scalable web applications. I enjoy working across the stack — from responsive frontends to secure backends and databases.
+I'm a software engineering student at Jimma University (2023–2027) with hands-on experience building deployed digital platforms, AI-assisted systems, and scalable web applications. I enjoy working across the stack from responsive frontends to secure backends and databases.
 
 ---
 
